@@ -6,7 +6,7 @@ Estudiar algunas aplicaciones de las dos reglas [mnemónicas](http://visualcompu
 
 ## Tareas
 
-1. [Regla mnemónica 1](http://visualcomputing.github.io/Transformations/#/5/17): Implemente en 2D y/o 3D la traslación, el esquilado, la rotación respecto a un pivote (eje) arbitrario y el escalado respecto a un punto de referencia.
+1. [Regla mnemónica 1](http://visualcomputing.github.io/Transformations/#/5/17): Implemente en 2D y/o 3D la traslación, el esquilado, la rotación respecto a un pivote (eje) arbitrario y el escalado respecto a un punto de referencia, para manipular un objeto cualquiera.
 2. [Regla mnemónica 2](http://visualcomputing.github.io/Transformations/#/6): Implemente en 2D y/o 3D un grafo de escena que represente una escena cualquiera. El grafo debe incluir un _frame_ para el ojo que sirva para explorar la escena.
 
 ## Entrega
